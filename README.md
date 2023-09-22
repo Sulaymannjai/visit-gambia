@@ -1,41 +1,9 @@
-Welcome!
-Good day, this is a promotional page about The Gambia a country in West Africa, it entails a brief history, location, people and the languages spoken there.
-The purpose of visit gambia is to attract more tourist and expose the country. 
-That is why you can a free ticket just by submitting the form.
- 
-
-
-
-
-
-
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Good day, this is a promotional page about The Gambia a country in West Africa, it entails a brief history, location, people and the languages spoken there. The website contains of 4 pages Index, History, Gallery and Form.
+The purpose of visit Gambia is to attract more tourist and expose the country.
+As an extra incentive we are giving out a free ticket via raffle to 10 lucky winners. The Gambia boasts of rich history, and have over 20 UNESCO world heritage sites.
+This website is for the propose of awareness and promoting Gambia as a tourist destination, below are attractions to follow..
+•	Wildlife, walk with lions and crocodiles.
+•	Amazing beaches
+•	Beautiful and friendly people
+•	Historical attraction.
+This is a non-profit origination, we host, develop and promote over 20 African countries. Our sole propose is to promote Africa as a whole, make the rest of the world be aware of the beauty of Africa.
