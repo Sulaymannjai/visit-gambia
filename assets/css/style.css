@@ -1,0 +1,44 @@
+.black-background {
+    background-color: black;
+    text-emphasis-color: white;
+    text-transform: uppercase;
+}
+
+.home {
+    text-transform: uppercase;
+}
+
+.about-form {
+    border: 2px solid #e84610;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.form {
+    margin-top: 2rem;
+}
+
+footer {
+    background-color: #6f4e37;
+    padding: 1em;
+    text-align: center;
+}
+
+footer > span {
+    color: silver;
+}
+
+footer > a {
+    color: beige;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 0.8rem;
+}
+
+footer > p {
+    color: silver;
+}
+
+.footer-text{
+    text-transform: uppercase;
+}
