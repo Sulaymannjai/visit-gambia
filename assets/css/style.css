@@ -1,44 +1,21 @@
-.black-background {
-    background-color: black;
-    text-emphasis-color: white;
-    text-transform: uppercase;
+.navbar {
+    display: flex;
+    background-color: #333;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
 }
 
-.home {
-    text-transform: uppercase;
-}
-
-.about-form {
-    border: 2px solid #e84610;
-    padding: 30px;
-    box-sizing: border-box;
-}
-
-.form {
-    margin-top: 2rem;
-}
-
-footer {
-    background-color: #6f4e37;
-    padding: 1em;
-    text-align: center;
-}
-
-footer > span {
-    color: silver;
-}
-
-footer > a {
-    color: beige;
+.navbar a {
+    color: white;
     text-decoration: none;
-    padding: 0 15px;
-    font-size: 0.8rem;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
 }
 
-footer > p {
-    color: silver;
-}
-
-.footer-text{
-    text-transform: uppercase;
+body {
+    background-image: url('flag.jpeg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
 }
