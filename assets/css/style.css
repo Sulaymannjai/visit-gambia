@@ -95,3 +95,14 @@ p {
     text-emphasis-color: blue;
     text-size-adjust: large;
 }
+
+#images {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+}
+
+#images > img {
+    width: 100%;
+}
