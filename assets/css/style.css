@@ -18,7 +18,8 @@ body {
     color: black;
 }
 
-h1,h2 {
+h1,
+h2 {
     font-family: roboto, sans-serif;
     text-align: center;
     text-emphasis-color: red;
@@ -27,7 +28,8 @@ h1,h2 {
     color: white;
 }
 
-p, h4 {
+p,
+h4 {
     font-size: extra large;
     background-color: green;
     text-emphasis-color: blue;
@@ -102,13 +104,21 @@ nav {
     padding-bottom: 20px;
 }
 
-#images {
-    clear: both;
-    line-height: 2;
-    column-count: 3;
-    column-gap: 2;
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
-#images > img {
+#images img {
     width: 100%;
+    line-height: 1em;
+}
+
+#images {
+    clear: both;
+
+    column-count: 3;
+    column-gap: 2;
 }
